@@ -6,7 +6,7 @@ Este espacio está diseñado para estudiantes, ingenieros y entusiastas del sect
 
 ---
 
-# 1. 🌐 Fundamentos y Principios de Telecomunicaciones
+## 1. 🌐 Fundamentos y Principios 
 
 * **`Fundamentos-de-telecomunicaciones.pdf`** *📄 Nombre:* Idelfonso Velásquez Gómez  
     *🔑 Contenido clave:* Análisis matemático de señales (Fourier), medios de transmisión (guiados y no guiados), técnicas de modulación analógica (AM/FM) y digital, métodos de detección/corrección de errores (VRC, LRC, CRC), y control de flujo en lazo abierto y cerrado.
@@ -17,7 +17,7 @@ Este espacio está diseñado para estudiantes, ingenieros y entusiastas del sect
 * **`Herrera-Telecomunicaciones.pdf`** *📄 Título:* Comunicaciones I: Señales, Modulación y Transmisión (Ing. Herrera)  
     *🔑 Contenido clave:* Análisis riguroso de señales en el dominio del tiempo y de la frecuencia a través de las series trigonométricas y exponenciales de Fourier. Modelado de subsistemas funcionales de comunicación (transmisor, medio y receptor).
 
-# 2. 🏙️ Redes Locales y Arquitecturas de Conexión
+## 2. 🏙️ Redes Locales y Arquitecturas de Conexión
 
 * **`Apuntes-de-telecomunicaciones-redes-locales.pdf`** *📄 Institución:* Universidad Nacional Autónoma de México (UNAM) - FCA  
     *🔑 Contenido clave:* Apunte electrónico enfocado en la transmisión de datos, topologías de redes locales (LAN), protocolos de comunicación, y el diseño y administración de aplicaciones específicas para redes de datos locales.
@@ -28,7 +28,7 @@ Este espacio está diseñado para estudiantes, ingenieros y entusiastas del sect
 * **`Redes-de-telecomunicaciones.pdf`** *📄 Institución:* Instituto Tecnológico de Teléfonos de México (Inttelmex)  
     *🔑 Contenido clave:* Material de autoestudio enfocado en las redes públicas conmutadas (PSTN), redes móviles (CMS, MSC, BS), y un desglose técnico profundo del protocolo ATM (Modo de Transferencia Asíncrona), canales virtuales y multiplexación por división en el tiempo asíncrona.
 
-# 3. 📱 Telefonía Móvil y Fija
+## 3. 📱 Telefonía Móvil y Fija
 
 * **`Telefonia-principios-y-fundamentos.pdf`** *📄 Autor:* Ing. Horacio D. Vallejo (Editorial Quark)  
     *🔑 Contenido clave:* Principios fundamentales de conmutación telefónica, telefonía celular, radioenlaces, diagramas en bloques y esquemas de sistemas multiplex (PCM y FDM), análisis de teléfonos electrónicos, inalámbricos y contestadores automáticos.
@@ -36,7 +36,8 @@ Este espacio está diseñado para estudiantes, ingenieros y entusiastas del sect
 * **`Introduccion_a_las_Telecomunicaciones.pdf`** *📄 Título:* Introducción a las Telecomunicaciones Fijas y Móviles (Oscar R. Pons)  
     *🔑 Contenido clave:* Evolución e indicadores globales de la infraestructura de telecomunicaciones desde 1975 hasta la era moderna, penetración de la telefonía fija/móvil y estándares de codificación/compresión de video (MPEG-2, H.264/AVC, H.265/HEVC).
 
-# 4. 📡 Antenas, Líneas de Transmisión y Electrónica Global
+## 4. 📡 Antenas, Transmisión y Electrónica Global
+
 * **`Antenas-y-lineas-de-transmision.pdf`** *📄 Autores:* Jaume Anguera y Antonio Pérez (Universidad Ramon Llull)  
     *🔑 Contenido clave:* Teoría general y guías de estudio para diseño de antenas, líneas de transmisión, análisis de arreglos de hojas parcialmente reflectoras, antenas de parche microstrip de banda ancha y redes de acoplamiento sistemático.
   
