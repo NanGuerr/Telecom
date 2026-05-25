@@ -52,9 +52,7 @@ Este espacio está diseñado para estudiantes, ingenieros y entusiastas del sect
 
 **Clona el repositorio:**
 
-    ```
     git clone https://github.com/NanGuerr/Telecom.git
-    
-    ```
+ 
 ---
 Developed for academic and engineering research purposes. 🎓✨
