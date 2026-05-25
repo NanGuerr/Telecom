@@ -1,4 +1,4 @@
-Coloca emoji en relación al contenido y crea un archivo .md, con la siguiente información:
+
 <p align="center"><img src="https://raw.githubusercontent.com/NanGuerr/Telecom/refs/heads/main/Banner.png" width="80%"></p>
 
 # 📡 Telecomunicaciones y Electrónica
