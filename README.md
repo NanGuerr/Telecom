@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/NanGuerr/Telecom/refs/heads/main/Banner.png" width="80%"></p>
+
 # 📡 Telecomunicaciones y Electrónica
 
 ¡Bienvenido a este repositorio especializado! Aquí encontrarás una colección exhaustiva de libros, apuntes y guías fundamentales que cubren desde los principios básicos de las telecomunicaciones hasta tecnologías avanzadas de redes, telefonía, electrónica y diseño de antenas.
@@ -48,24 +50,10 @@ Este espacio está diseñado para estudiantes, ingenieros y entusiastas del sect
 
 ## 🚀 Cómo Utilizar este Material
 
-1.  **Clona el repositorio:**
+**Clona el repositorio:**
+
     ```bash
     git clone https://github.com/NanGuerr/Telecom.git
     ```
-
-2.  **Explora las carpetas:** Puedes organizar los archivos PDF por categorías usando carpetas temáticas para mantener una navegación limpia:
-    * `/01-fundamentos-telecom`
-    * `/02-redes-y-conectividad`
-    * `/03-telefonia`
-    * `/04-electronica-y-antenas`
-
----
-
-## 🛠️ Requisitos de Lectura
-Para abrir y estudiar el material interactivo o las guías, se recomienda utilizar cualquier visor de PDF estándar como Adobe Acrobat Reader, Foxit Reader o integrados de navegadores web modernos.
-
-## 🤝 Contribuciones
-Si tienes apuntes adicionales, guías de laboratorio en TIA Portal, ejercicios resueltos de análisis de Fourier o códigos de simulación relacionados con estas materias, ¡los Pull Requests son bienvenidos!
-
 ---
 Developed for academic and engineering research purposes. 🎓✨
